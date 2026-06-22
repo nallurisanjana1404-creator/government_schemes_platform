@@ -1,0 +1,6 @@
+{
+  "name": "Government Schemes Intelligence Platform",
+  "description": "An intelligent insights platform for government scheme categorization, eligibility analysis, multilingual AI chat, document verification, and roadmap tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
