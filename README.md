@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/a9999e1f-540d-49c1-b2c3-1fe8f
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+# government_schemes_platform
